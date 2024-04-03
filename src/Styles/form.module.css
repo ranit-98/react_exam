@@ -1,0 +1,27 @@
+.formContainer{
+    margin-left: 20rem;
+    border:1px solid black;
+    width: 30rem;
+    
+}
+.formHeading{
+    background-color: aqua;
+    text-align: center;
+}
+label{
+    margin-left: 6rem;
+}
+input{
+    margin-left: 6rem;
+}
+button{
+    margin-top: 1.5rem;
+    margin-left: 10rem;
+}
+.RegLink{
+    margin-top: 1.5rem;
+    margin-left: 8rem;
+    text-decoration: none;
+    color: blue;
+    margin-bottom: 5rem;
+}
